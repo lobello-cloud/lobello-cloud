@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Salva
 
-<!--
-**lobello-cloud/lobello-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Azure Product Owner focused on becoming a **Cloud Security Architect**.
 
-Here are some ideas to get you started:
+I build and secure Azure environments while learning how real-world security works — from identity to detection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I’m doing
+- Designing secure Azure architectures
+- Learning security the practical way (not just theory)
+- Working with Bicep, Identity, and Zero Trust concepts
+- Breaking and testing my own setups to understand security
+
+---
+
+## 🎯 Focus
+- Azure Security  
+- Identity & Access (Entra ID)  
+- Cloud Architecture  
+- Detection & Response  
+
+---
+
+## 🚀 Goal
+Grow into a role where I design and secure cloud environments end-to-end.
+
+---
+
+## ⚠️ Note
+Still learning — but building real things and improving every day.## Hi there 👋
